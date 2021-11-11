@@ -1,0 +1,68 @@
+.header_h1 {
+  color: #53abee;
+  padding-top: 20px;
+  margin-left: 12%;
+  text-shadow: 1.5px 1.5px 1.5px rgba(0, 0, 0, 0.9);
+}
+
+.header {
+  margin-bottom: 5%;
+  display: flex;
+  justify-content: space-between;
+  background-color: green;
+}
+
+.header_img {
+  width: 100px;
+}
+
+.header_form {
+  padding-top: 30px;
+  padding-right: 10px;
+}
+
+.header_search_input {
+  width: 220px;
+  font-family: 'Rick and Morty Font';
+}
+
+.header_search_input::placeholder {
+  text-align: center;
+}
+
+.header_search_button {
+  font-weight: bold;
+  width: 60px;
+}
+
+.header_clear_button {
+  margin-left: 2px;
+  border-radius: 1px;
+  width: 60px;
+}
+
+.header_div_alternative {
+  width: 280px;
+}
+
+@media (max-width: 480px) {
+  header {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .header_img {
+    display: block;
+    margin: auto;
+  }
+
+  .header_h1 {
+    text-align: center;
+    padding-bottom: 5px;
+  }
+
+  .header_form {
+    width: 95%;
+    margin: auto;
+  }
+}

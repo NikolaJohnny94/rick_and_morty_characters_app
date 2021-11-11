@@ -1,0 +1,13 @@
+.episode_card {
+  text-decoration: none;
+  height: 100px;
+  width: 15%;
+  padding-top: 35px;
+  font-family: 'Rick and Morty Font';
+}
+
+@media (max-width: 480px) {
+  .episode_card {
+    width: 98% !important;
+  }
+}

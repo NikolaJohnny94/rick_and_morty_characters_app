@@ -1,0 +1,9 @@
+.not_found_h1 {
+  text-align: center;
+  font-family: 'Rick and Morty Font';
+  margin-bottom: 23%;
+}
+
+.go_back_link {
+  text-decoration: none;
+}

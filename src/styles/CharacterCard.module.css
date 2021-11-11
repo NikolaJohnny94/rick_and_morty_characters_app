@@ -1,0 +1,20 @@
+.card_border {
+  border: none;
+}
+
+.card_title {
+  text-align: center;
+}
+
+.card_img {
+  display: block;
+  margin: auto;
+  width: 80%;
+  border-radius: 10px;
+}
+
+@media (max-width: 480px) {
+  .card_additional {
+    width: 98% !important;
+  }
+}

@@ -1,0 +1,12 @@
+.button_container {
+  display: flex;
+  justify-content: center;
+}
+
+.prev_next_buttons {
+  width: 100px;
+}
+
+.first_last_button {
+  width: 50px;
+}

@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Rick and Morty Font';
+  src: url('./fonts/get_schwifty.ttf');
+}
+
+body {
+  margin: 0;
+  user-select: none;
+}
+
+body > * {
+  font-family: 'Rick and Morty Font';
+}
