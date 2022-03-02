@@ -1,4 +1,4 @@
-# Rick and Morty Characters App Made With React.js [<img  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" title="React.js Framework" alt="React.js Icon" width="30px;" height="30px;">](https://vuejs.org/)
+# Rick and Morty Characters App Made With React.js [<img  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" title="React.js Framework" alt="React.js Icon" width="30px;" height="30px;">](https://reactjs.org/)
 
 ## [Live Demo](https://rick-and-morty-characters-web-app.netlify.app/) 🛸🪐🌠🌌
 
