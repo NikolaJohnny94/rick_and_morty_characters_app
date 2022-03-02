@@ -4,7 +4,8 @@
 
 ## Description
 
-Rick and Morty Characters App Made with React.js, Bootstrap and Context API as a State Management 🔭🧪🧬☄️
+Rick and Morty Characters App Made with React.js, Bootstrap and Context API as a State Management 🔭🧪🧬☄️ <br>
+Fetching the data from the third-party API [The Rick and Morty API](https://rickandmortyapi.com/) 🚀
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
